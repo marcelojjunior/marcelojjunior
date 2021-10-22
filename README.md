@@ -39,3 +39,7 @@ I'm passionate about solving problems, I'm always learning more, and I love chal
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelojjunior&layout=compact&langs_count=7&theme=dark"/>-->
   <img width="47%" src="https://github-readme-streak-stats.herokuapp.com?user=marcelojjunior&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="marcelojjunior" />
 </div>
+
+##
+
+![Snake animation](https://github.com/marcelojjunior/marcelojjunior/blob/output/github-contribution-grid-snake.svg)
