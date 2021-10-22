@@ -43,3 +43,5 @@ I'm passionate about solving problems, I'm always learning more, and I love chal
 ##
 
 
+![Snake animation](https://github.com/marcelojjunior/marcelojjunior/blob/output/github-contribution-grid-snake.svg)
+
