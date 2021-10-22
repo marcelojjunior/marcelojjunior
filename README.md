@@ -25,7 +25,7 @@ I'm passionate about solving problems, I'm always learning more, and I love chal
 
 <div align="center">
   <a href="https://github.com/marcelojjunior">
-  <img height="170em" src="https://github-readme-stats.vercel.app/api?username=marcelojjunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img width="45%" src="https://github-readme-stats.vercel.app/api?username=marcelojjunior&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=marcelojjunior&layout=compact&langs_count=7&theme=dark"/>-->
   <img width="45%" src="https://github-readme-streak-stats.herokuapp.com?user=marcelojjunior&theme=dark&date_format=M%20j%5B%2C%20Y%5D" alt="marcelojjunior" />
 </div>
