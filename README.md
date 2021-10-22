@@ -9,7 +9,7 @@ I'm passionate about solving problems, I'm always learning more, and I love chal
 - 👨‍💻 Front-end Developer
 - ✨ I'm here to help and learn
 
-  ##
+##
   
 ### Favorite technologies:  
 <div style="display: inline_block"><br>
@@ -21,7 +21,7 @@ I'm passionate about solving problems, I'm always learning more, and I love chal
   <img align="center" alt="Marcelo-Canva" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/canva/canva-original.svg" />
 </div>
 
-   ##
+##
 ### Contacts: 
 <div> 
   <a href="https://instagram.com/marcelojjunior_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
