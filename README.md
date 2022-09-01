@@ -4,7 +4,7 @@ Meu Nome é Marcelo Júnior, tenho 21 anos e comecei a ser desenvolvedor aos 19 
 Sou apaixonado por resolver problemas, estou sempre aprendendo mais e sou fã de desafios. 🚀
 
 - 📌 São Paulo - SP
-- 👨‍💻 Front-end Developer
+- 👨‍💻 Desenvolvedor Front-end
 - ✨ Estou aqui para ajudar e aprender
 
 ##
