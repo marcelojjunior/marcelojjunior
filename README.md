@@ -1,6 +1,6 @@
 ### Olá 👋
 
-Meu Nome é Marcelo Júnior, tenho 21 anos e comecei a ser desenvolvedor aos 19 anos.
+Meu Nome é Marcelo Júnior, tenho 22 anos e comecei a ser desenvolvedor aos 19 anos.
 Sou apaixonado por resolver problemas, estou sempre aprendendo mais e sou fã de desafios. 🚀
 
 - 📌 São Paulo - SP
