@@ -4,7 +4,7 @@ My name is Marcelo Júnior, I'm 22 years old and I started to be a developer whe
 I'm passionate about solving problems, I'm always learning more and I'm a fan of challenges. 🚀
 
 - 📌 São Paulo - SP
-- 👨‍💻 Developer Front-end
+- 👨‍💻 Front-end Developer
 - ✨ I'm here to help and learn
 
 ##
