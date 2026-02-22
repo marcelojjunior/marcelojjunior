@@ -1,6 +1,6 @@
 ### Hello 👋
 
-My name is Marcelo Júnior, I'm 24 years old and I started to be a developer when I was 19.
+My name is Marcelo Júnior, I'm 25 years old and I started to be a developer when I was 19.
 I'm passionate about solving problems, I'm always learning more and I'm a fan of challenges. 🚀
 
 - 📌 São Paulo - SP
