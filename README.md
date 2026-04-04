@@ -1,6 +1,6 @@
 # Marcelo Junior
 
-### Frontend / Full Stack Developer
+### Full Stack Developer
 
 I build modern, performant, and user-focused web and mobile experiences with React, React Native, and TypeScript.
 
